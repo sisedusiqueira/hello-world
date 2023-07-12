@@ -1,4 +1,4 @@
-<h3>Primeiros passos para iniciar na programação de computadores.<br> Independente da linguagem de programação</h3>
+<h3>Primeiros passos para iniciar na programação de computadores.<br></h3> <h4>Independente da linguagem de programação</h4>
 
 <h1>Algoritmos</h1><br>
 <p>Algoritmos são conjutos de passos finitos e organizados que, quando executados, resolvem um determinado problema.</p>
