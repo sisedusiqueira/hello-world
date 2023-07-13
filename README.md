@@ -6,6 +6,10 @@ O programa "Olá, Mundo!" serve como um ponto de partida básico e demonstra a s
 
 Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tradição universal na comunidade de programação e simboliza o início de uma jornada na programação.</p>
 
+<p>REFERÊNCIA<br>
+  Texto retirado do chatGPT Open AI
+  <ul><li><a hre="https://chat.openai.com/"></li>ChatGPT OpenAI</ul></p>
+
 <h1>Primeiros passos para iniciar na programação de computadores.</h1>
 
 <h1>Algoritmos</h1><br>
