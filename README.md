@@ -8,7 +8,7 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
 
 <p>REFERÊNCIA<br>
   Texto retirado do chatGPT Open AI
-  <ul><li><a href="https://chat.openai.com/">ChatGPT OpenAI<a></li></ul></p>
+  <a href="https://chat.openai.com/">ChatGPT OpenAI<a>
 
 <h1>Primeiros passos para iniciar na programação de computadores.</h1>
 
