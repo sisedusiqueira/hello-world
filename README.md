@@ -21,7 +21,7 @@ REFERÊNCIA<br>
 
 
 <h1>Para contribuir.</h1><br>
-<p>Siga os passos abaixo:
+<p>Siga os passos abaixo:<br>
 1. Faça o Fork do projeto nome-projeto no canto superior direito da tela;<br>
 2. Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/projeto.git);<br>
 3. Crie sua branch para realizar sua modificação (git checkout -b feature/nome_da_modificação);<br>
