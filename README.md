@@ -7,8 +7,8 @@ O programa "Olá, Mundo!" serve como um ponto de partida básico e demonstra a s
 Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tradição universal na comunidade de programação e simboliza o início de uma jornada na programação.</p>
 
 <p>REFERÊNCIA<br>
-  Texto retirado do chatGPT Open AI
-  <a href="https://chat.openai.com/">ChatGPT OpenAI<a>
+  Texto retirado do chatGPT Open AI<br>
+  <a href="https://chat.openai.com/">ChatGPT OpenAI<a></p>
 
 
 <h1>Primeiros passos para iniciar na programação de computadores.<br>Algoritmos</h1><br>
@@ -17,6 +17,6 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
 
 <p>REFERÊNCIA<br>
   Introdução a Algoritmos - Curso de Algoritmos - Gustavo Guanabara<br>
-Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
-# # Contribuir
+  Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
+
 
