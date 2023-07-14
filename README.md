@@ -10,6 +10,8 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   Texto retirado do chatGPT Open AI
   <a href="https://chat.openai.com/">ChatGPT OpenAI<a>
 
+
+
 <h1>Primeiros passos para iniciar na programação de computadores.</h1>
 
 <h1>Algoritmos</h1><br>
@@ -22,9 +24,10 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
 
 
+
 <h1>Para contribuir</h1><br>
 <p>Siga os passos abaixo:<br><br>
-<ul>
+<ol>
   <li>
 1. Faça o `Fork` do projeto [Nome Projeto](<https://github.com/nome-usuario/nome-projeto.git>) no canto superior direito da tela;<br>
 2. Clone o projeto do seu repositório no github (`git clone https://github.com/SEU_USUARIO/nome-projeto.git`);<br>
@@ -33,4 +36,4 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
 5. Faça o `Push` para seu repositório (`git push origin feature/nome_modificação`);<br>
 6. No seu repositório no *Github* crie uma `Pull Request` para que seja avaliada a suas modificações para ser feito o `merge` no projeto principal.</p>
   </li>
-</ul>
+</ol>
