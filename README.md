@@ -22,12 +22,12 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
 
 
-## Para contribuir
-Siga os passos abaixo:
+<h3>Para contribuir</h3>
+<p>Siga os passos abaixo:
 
 1. Faça o `Fork` do projeto [Nome Projeto](<https://github.com/nome-usuario/nome-projeto.git>) no canto superior direito da tela;
 2. Clone o projeto do seu repositório no github (`git clone https://github.com/SEU_USUARIO/nome-projeto.git`);
 3. Crie sua branch para realizar sua modificação (`git checkout -b feature/nome_da_modificação`);
 4. Após ter realizado suas modificações, faça um `commit` (`git commit -m "Descrição da modificação"`);
 5. Faça o `Push` para seu repositório (`git push origin feature/nome_modificação`);
-6. No seu repositório no *Github* crie uma `Pull Request` para que seja avaliada a suas modificações para ser feito o `merge` no projeto principal.
+6. No seu repositório no *Github* crie uma `Pull Request` para que seja avaliada a suas modificações para ser feito o `merge` no projeto principal.</p>
