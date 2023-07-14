@@ -19,15 +19,3 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   Introdução a Algoritmos - Curso de Algoritmos - Gustavo Guanabara<br>
   Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
 
-<h1>Para constribuir</h1>
-
-Para contribuir
-Siga os passos abaixo:
-
-Faça o Fork do projeto Calculadora Tk no canto superior direito da tela;
-Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/calculadora-tk.git);
-Crie sua branch para realizar sua modificação (git checkout -b feature/nome_da_modificação);
-Após ter realizado suas modificações, faça um commit (git commit -m "Descrição da modificação");
-Faça o Push para seu repositório (git push origin feature/nome_modificação);
-No seu repositório no Github crie uma Pull Request para que seja avaliada a suas modificações para ser feito o merge no projeto principal.
-
