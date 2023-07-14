@@ -22,14 +22,16 @@ REFERÊNCIA<br>
 
 <h1>Para contribuir.</h1><br>
 <p>Siga os passos abaixo:<br>
-<ol>
-Faça o Fork do projeto Calculadora Tk no canto superior direito da tela;<br>
-Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/calculadora-tk.git);<br>
+<ul>
+  <ol>
+Faça o Fork do projeto nome-projeto no canto superior direito da tela;<br>
+Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/projeto.git);<br>
 Crie sua branch para realizar sua modificação (git checkout -b feature/nome_da_modificação);<br>
 Após ter realizado suas modificações, faça um commit (git commit -m "Descrição da modificação");<br>
 Faça o Push para seu repositório (git push origin feature/nome_modificação);<br>
 No seu repositório no Github crie uma Pull Request para que seja avaliada a suas modificações para ser feito o merge no projeto principal.<br>
 </ol>
+</ul>
 REFERÊNCIA<br>
   Introdução a Git e GitHub<br>
   Comandos Git e GitHub.<br>
