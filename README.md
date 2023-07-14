@@ -19,6 +19,7 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   Introdução a Algoritmos - Curso de Algoritmos - Gustavo Guanabara<br>
   Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.</p>
 
+<h1>Para constribuir</h1>
 
 Para contribuir
 Siga os passos abaixo:
