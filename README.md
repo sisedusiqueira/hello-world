@@ -20,9 +20,16 @@ REFERÊNCIA<br>
   <a href="https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso de Algoritmos - Gustavo Guanabara</a></p>
 
 
-<h1>Primeiros passos para iniciar na programação de computadores.<br>Algoritmos</h1><br>
-<p>Algoritmos são conjutos de passos finitos e organizados que, quando executados, resolvem um determinado problema.<br>
-
+<h1>Para contribuir.</h1><br>
+<p>Siga os passos abaixo:<br>
+  <ol>
+Faça o Fork do projeto Calculadora Tk no canto superior direito da tela;
+Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/calculadora-tk.git);
+Crie sua branch para realizar sua modificação (git checkout -b feature/nome_da_modificação);
+Após ter realizado suas modificações, faça um commit (git commit -m "Descrição da modificação");
+Faça o Push para seu repositório (git push origin feature/nome_modificação);
+No seu repositório no Github crie uma Pull Request para que seja avaliada a suas modificações para ser feito o merge no projeto principal.
+  </ol>
 REFERÊNCIA<br>
   Introdução a Algoritmos - Curso de Algoritmos - Gustavo Guanabara<br>
   Livro Algoritmos - Lógica para Desenvolvimento de Programação de Computadores.<br>
