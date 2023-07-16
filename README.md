@@ -20,18 +20,3 @@ REFERÊNCIA<br>
   <a href="https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso de Algoritmos - Gustavo Guanabara</a></p>
 
 
-<h1>Introdução ao Git e GitHub<br></h1><br>
-<p>Siga os passos abaixo:</p>
-<ol>
-1. Faça o Fork do projeto nome-projeto no canto superior direito da tela;<br>
-2. Clone o projeto do seu repositório no github (git clone https://github.com/SEU_USUARIO/projeto.git);<br>
-3. Crie sua branch para realizar sua modificação (git checkout -b feature/nome_da_modificação);<br>
-4. Após ter realizado suas modificações, faça um commit (git commit -m "Descrição da modificação");<br>
-5. Faça o Push para seu repositório (git push origin feature/nome_modificação);<br>
-6. No seu repositório no Github crie uma Pull Request para que seja avaliada a suas modificações para ser feito o merge no projeto principal.<br>
-</ol>
-<p>
-REFERÊNCIA<br>
-  Comandos Git e GitHub.<br>
-  <a href="#">GitHub</a>
-</p>
