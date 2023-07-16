@@ -11,7 +11,7 @@ Embora seja um programa simples e introdutório, "Olá, Mundo!" se tornou uma tr
   <a href="https://chat.openai.com/">ChatGPT OpenAI<a></p>
 
 
-<h1>Primeiros passos para iniciar na programação de computadores.<br>Algoritmos</h1><br>
+<h1>Algoritmos</h1><br>
 <p>Algoritmos são conjutos de passos finitos e organizados que, quando executados, resolvem um determinado problema.<br>
 
 REFERÊNCIA<br>
