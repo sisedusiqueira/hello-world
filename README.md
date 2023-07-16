@@ -20,7 +20,7 @@ REFERÊNCIA<br>
   <a href="https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso de Algoritmos - Gustavo Guanabara</a></p>
 
 
-<h1>Para contribuir<br>  Introdução ao Git e GitHub<br></h1><br>
+<h1>Introdução ao Git e GitHub<br></h1><br>
 <p>Siga os passos abaixo:</p>
 <ol>
 1. Faça o Fork do projeto nome-projeto no canto superior direito da tela;<br>
